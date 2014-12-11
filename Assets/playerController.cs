@@ -4,14 +4,17 @@ using System.Collections;
 public class playerController : MonoBehaviour {
 	
 	public float speed = 6f;            // The speed that the player will move at.
+	public float acceleration = 12;
 	public float timeBetweenSlash = 0.15f; //time between attacks
-	
-	public KeyCode up;
-	public KeyCode down;
+
 	public KeyCode left;
 	public KeyCode right;
 	public KeyCode slash;
-	
+
+	private float currentSpeed;
+	private float targetSpeed;
+	private Vector2 amountToMove;
+
 	Vector3 movement;                   // The vector to store the direction of the player's movement.
 	Rigidbody2D playerRigidbody;          // Reference to the player's rigidbody2D component
 	int floorMask;                      // A layer mask so that a ray can be cast just at gameobjects on the floor layer.
@@ -36,26 +39,7 @@ public class playerController : MonoBehaviour {
 
 	void FixedUpdate ()
 	{
-		
-		// Move the player around the scene.
-		if(Input.GetKeyDown(up)) {
-			
-			rigidbody2D.AddForce(Vector3.up * 10);
-			
-			float step = 1 * Time.deltaTime;
-			
-			
-			
-		}
-		if(Input.GetKeyDown(down)) {
-			
-			
-			rigidbody.AddForce(Vector3.down * 10);
-			
-			float step = 1 * Time.deltaTime;
-			
-			
-		}
+
 		if(Input.GetKeyDown(left)) {
 			
 			
@@ -75,6 +59,25 @@ public class playerController : MonoBehaviour {
 		
 		// Attack
 		//	Attack ();
+	}
+
+	void update () {
+		targetSpeed = Input.GetAxisRaw("Horizontal") * speed;
+		currentSpeed = IncrementTowards (currentSpeed, targetSpeed, acceleration);
+
+		amountToMove.x = currentSpeed;
+
+	}
+	private float IncrementTowards(float n, float target, float acceleration) {
+		if (n == target) {
+			return n;
+				}
+		else {
+			float dir = Mathf.Sign(target - n); //increase or decrease makes closer to target
+			n += acceleration * Time.deltaTime * dir;
+			return (dir == Mathf.Sign(target-n))? n: target;
+
+		}
 	}
 }
 

@@ -1,0 +1,1455 @@
+fileFormatVersion: 2
+guid: 5793335b618cdd342a52fd34ea50329a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spelunkyguy_0
+    21300002: spelunkyguy_1
+    21300004: spelunkyguy_2
+    21300006: spelunkyguy_3
+    21300008: spelunkyguy_4
+    21300010: spelunkyguy_5
+    21300012: spelunkyguy_6
+    21300014: spelunkyguy_7
+    21300016: spelunkyguy_8
+    21300018: spelunkyguy_9
+    21300020: spelunkyguy_10
+    21300022: spelunkyguy_11
+    21300024: spelunkyguy_12
+    21300026: spelunkyguy_13
+    21300028: spelunkyguy_14
+    21300030: spelunkyguy_15
+    21300032: spelunkyguy_16
+    21300034: spelunkyguy_17
+    21300036: spelunkyguy_18
+    21300038: spelunkyguy_19
+    21300040: spelunkyguy_20
+    21300042: spelunkyguy_21
+    21300044: spelunkyguy_22
+    21300046: spelunkyguy_23
+    21300048: spelunkyguy_24
+    21300050: spelunkyguy_25
+    21300052: spelunkyguy_26
+    21300054: spelunkyguy_27
+    21300056: spelunkyguy_28
+    21300058: spelunkyguy_29
+    21300060: spelunkyguy_30
+    21300062: spelunkyguy_31
+    21300064: spelunkyguy_32
+    21300066: spelunkyguy_33
+    21300068: spelunkyguy_34
+    21300070: spelunkyguy_35
+    21300072: spelunkyguy_36
+    21300074: spelunkyguy_37
+    21300076: spelunkyguy_38
+    21300078: spelunkyguy_39
+    21300080: spelunkyguy_40
+    21300082: spelunkyguy_41
+    21300084: spelunkyguy_42
+    21300086: spelunkyguy_43
+    21300088: spelunkyguy_44
+    21300090: spelunkyguy_45
+    21300092: spelunkyguy_46
+    21300094: spelunkyguy_47
+    21300096: spelunkyguy_48
+    21300098: spelunkyguy_49
+    21300100: spelunkyguy_50
+    21300102: spelunkyguy_51
+    21300104: spelunkyguy_52
+    21300106: spelunkyguy_53
+    21300108: spelunkyguy_54
+    21300110: spelunkyguy_55
+    21300112: spelunkyguy_56
+    21300114: spelunkyguy_57
+    21300116: spelunkyguy_58
+    21300118: spelunkyguy_59
+    21300120: spelunkyguy_60
+    21300122: spelunkyguy_61
+    21300124: spelunkyguy_62
+    21300126: spelunkyguy_63
+    21300128: spelunkyguy_64
+    21300130: spelunkyguy_65
+    21300132: spelunkyguy_66
+    21300134: spelunkyguy_67
+    21300136: spelunkyguy_68
+    21300138: spelunkyguy_69
+    21300140: spelunkyguy_70
+    21300142: spelunkyguy_71
+    21300144: spelunkyguy_72
+    21300146: spelunkyguy_73
+    21300148: spelunkyguy_74
+    21300150: spelunkyguy_75
+    21300152: spelunkyguy_76
+    21300154: spelunkyguy_77
+    21300156: spelunkyguy_78
+    21300158: spelunkyguy_79
+    21300160: spelunkyguy_80
+    21300162: spelunkyguy_81
+    21300164: spelunkyguy_82
+    21300166: spelunkyguy_83
+    21300168: spelunkyguy_84
+    21300170: spelunkyguy_85
+    21300172: spelunkyguy_86
+    21300174: spelunkyguy_87
+    21300176: spelunkyguy_88
+    21300178: spelunkyguy_89
+    21300180: spelunkyguy_90
+    21300182: spelunkyguy_91
+    21300184: spelunkyguy_92
+    21300186: spelunkyguy_93
+    21300188: spelunkyguy_94
+    21300190: spelunkyguy_95
+    21300192: spelunkyguy_96
+    21300194: spelunkyguy_97
+    21300196: spelunkyguy_98
+    21300198: spelunkyguy_99
+    21300200: spelunkyguy_100
+    21300202: spelunkyguy_101
+    21300204: spelunkyguy_102
+    21300206: spelunkyguy_103
+    21300208: spelunkyguy_104
+    21300210: spelunkyguy_105
+    21300212: spelunkyguy_106
+    21300214: spelunkyguy_107
+    21300216: spelunkyguy_108
+    21300218: spelunkyguy_109
+    21300220: spelunkyguy_110
+    21300222: spelunkyguy_111
+    21300224: spelunkyguy_112
+    21300226: spelunkyguy_113
+    21300228: spelunkyguy_114
+    21300230: spelunkyguy_115
+    21300232: spelunkyguy_116
+    21300234: spelunkyguy_117
+    21300236: spelunkyguy_118
+    21300238: spelunkyguy_119
+    21300240: spelunkyguy_120
+    21300242: spelunkyguy_121
+    21300244: spelunkyguy_122
+    21300246: spelunkyguy_123
+    21300248: spelunkyguy_124
+    21300250: spelunkyguy_125
+    21300252: spelunkyguy_126
+    21300254: spelunkyguy_127
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spelunkyguy_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 950
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 950
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 948
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_3
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 950
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_4
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 951
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_5
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 950
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_6
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 950
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_7
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 950
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_8
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 948
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_9
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 950
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 868
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 870
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 870
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_13
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 870
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_14
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 868
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_15
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 870
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_16
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 870
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_17
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 870
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_18
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 870
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_19
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 870
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_20
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 870
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_21
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 870
+        width: 67
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 789
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_23
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 790
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 798
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_25
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 798
+        width: 72
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 790
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_27
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 790
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_28
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 791
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_29
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 788
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_30
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 788
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_31
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 787
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_32
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 790
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 708
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_34
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 709
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_35
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 708
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_36
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 710
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_37
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 710
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_38
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 710
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_39
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 710
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_40
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 710
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_41
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 702
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_42
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 704
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_43
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 704
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_44
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 711
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 628
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_46
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 629
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_47
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 628
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_48
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 628
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_49
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 628
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_50
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 628
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_51
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 629
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_52
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 628
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_53
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 630
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_54
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 630
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_55
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 629
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_56
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 548
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_57
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 548
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_58
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 548
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_59
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 548
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_60
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 548
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_61
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 548
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_62
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 549
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_63
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 548
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_64
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 548
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_65
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 548
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_66
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 548
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_67
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 548
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_68
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 470
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_69
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 468
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_70
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 469
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_71
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 470
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_72
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 468
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_73
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 469
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_74
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 467
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_75
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 468
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_76
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 468
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_77
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 468
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_78
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 468
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_79
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 468
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_80
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 395
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_81
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 393
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_82
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 390
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_83
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 389
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_84
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 394
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_85
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 395
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_86
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 393
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_87
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 390
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_88
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 389
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_89
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 394
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_90
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 310
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_91
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 310
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_92
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 310
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_93
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 310
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_94
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 310
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_95
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 310
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_96
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 310
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_97
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 310
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_98
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 228
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_99
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 224
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_100
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 227
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_101
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 227
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_102
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 227
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_103
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 227
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_104
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 224
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_105
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 225
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_106
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 227
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_107
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 227
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_108
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 224
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_109
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 225
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_110
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 146
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_111
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 145
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_112
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 143
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_113
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 145
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_114
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 145
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_115
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 145
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_116
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 143
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_117
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 141
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_118
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 143
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_119
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 143
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_120
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 86
+        width: 126
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_121
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 76
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_122
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_123
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 72
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_124
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 71
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_125
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 70
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_126
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 76
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunkyguy_127
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 67
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,1422 @@
+fileFormatVersion: 2
+guid: d5f1dee43d638e44282bcd70370a65ca
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ahmed_0
+    21300002: ahmed_1
+    21300004: ahmed_2
+    21300006: ahmed_3
+    21300008: ahmed_4
+    21300010: ahmed_5
+    21300012: ahmed_6
+    21300014: ahmed_7
+    21300016: ahmed_8
+    21300018: ahmed_9
+    21300020: ahmed_10
+    21300022: ahmed_11
+    21300024: ahmed_12
+    21300026: ahmed_13
+    21300028: ahmed_14
+    21300030: ahmed_15
+    21300032: ahmed_16
+    21300034: ahmed_17
+    21300036: ahmed_18
+    21300038: ahmed_19
+    21300040: ahmed_20
+    21300042: ahmed_21
+    21300044: ahmed_22
+    21300046: ahmed_23
+    21300048: ahmed_24
+    21300050: ahmed_25
+    21300052: ahmed_26
+    21300054: ahmed_27
+    21300056: ahmed_28
+    21300058: ahmed_29
+    21300060: ahmed_30
+    21300062: ahmed_31
+    21300064: ahmed_32
+    21300066: ahmed_33
+    21300068: ahmed_34
+    21300070: ahmed_35
+    21300072: ahmed_36
+    21300074: ahmed_37
+    21300076: ahmed_38
+    21300078: ahmed_39
+    21300080: ahmed_40
+    21300082: ahmed_41
+    21300084: ahmed_42
+    21300086: ahmed_43
+    21300088: ahmed_44
+    21300090: ahmed_45
+    21300092: ahmed_46
+    21300094: ahmed_47
+    21300096: ahmed_48
+    21300098: ahmed_49
+    21300100: ahmed_50
+    21300102: ahmed_51
+    21300104: ahmed_52
+    21300106: ahmed_53
+    21300108: ahmed_54
+    21300110: ahmed_55
+    21300112: ahmed_56
+    21300114: ahmed_57
+    21300116: ahmed_58
+    21300118: ahmed_59
+    21300120: ahmed_60
+    21300122: ahmed_61
+    21300124: ahmed_62
+    21300126: ahmed_63
+    21300128: ahmed_64
+    21300130: ahmed_65
+    21300132: ahmed_66
+    21300134: ahmed_67
+    21300136: ahmed_68
+    21300138: ahmed_69
+    21300140: ahmed_70
+    21300142: ahmed_71
+    21300144: ahmed_72
+    21300146: ahmed_73
+    21300148: ahmed_74
+    21300150: ahmed_75
+    21300152: ahmed_76
+    21300154: ahmed_77
+    21300156: ahmed_78
+    21300158: ahmed_79
+    21300160: ahmed_80
+    21300162: ahmed_81
+    21300164: ahmed_82
+    21300166: ahmed_83
+    21300168: ahmed_84
+    21300170: ahmed_85
+    21300172: ahmed_86
+    21300174: ahmed_87
+    21300176: ahmed_88
+    21300178: ahmed_89
+    21300180: ahmed_90
+    21300182: ahmed_91
+    21300184: ahmed_92
+    21300186: ahmed_93
+    21300188: ahmed_94
+    21300190: ahmed_95
+    21300192: ahmed_96
+    21300194: ahmed_97
+    21300196: ahmed_98
+    21300198: ahmed_99
+    21300200: ahmed_100
+    21300202: ahmed_101
+    21300204: ahmed_102
+    21300206: ahmed_103
+    21300208: ahmed_104
+    21300210: ahmed_105
+    21300212: ahmed_106
+    21300214: ahmed_107
+    21300216: ahmed_108
+    21300218: ahmed_109
+    21300220: ahmed_110
+    21300222: ahmed_111
+    21300224: ahmed_112
+    21300226: ahmed_113
+    21300228: ahmed_114
+    21300230: ahmed_115
+    21300232: ahmed_116
+    21300234: ahmed_117
+    21300236: ahmed_118
+    21300238: ahmed_119
+    21300240: ahmed_120
+    21300242: ahmed_121
+    21300244: ahmed_122
+    21300246: ahmed_123
+    21300248: ahmed_124
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ahmed_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 948
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 950
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 948
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 948
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 950
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_5
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 949
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_6
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 950
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_7
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 949
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_8
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 948
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_9
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 948
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 868
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 868
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 868
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_13
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 868
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_14
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 868
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_15
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 868
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_16
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 868
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_17
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 868
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_18
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 868
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_19
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 868
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_20
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 868
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_21
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 868
+        width: 69
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 789
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_23
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 788
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 798
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_25
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 798
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 789
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_27
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 788
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_28
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 790
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_29
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 789
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_30
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 789
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_31
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 786
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_32
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 790
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 709
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_34
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 709
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_35
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 709
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_36
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 708
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_37
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 708
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_38
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 708
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_39
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 708
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_40
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 708
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_41
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 630
+        width: 61
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_42
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 704
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_43
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 628
+        width: 63
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_44
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 711
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 629
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_46
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 629
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_47
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 629
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_48
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 628
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_49
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 629
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_50
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 628
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_51
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 628
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_52
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 628
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_53
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 630
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_54
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 548
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_55
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 548
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_56
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 549
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_57
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 548
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_58
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 548
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_59
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 549
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_60
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 548
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_61
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 548
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_62
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 548
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_63
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 548
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_64
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 548
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_65
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 549
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_66
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 468
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_67
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 468
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_68
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 469
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_69
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 468
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_70
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 468
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_71
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 469
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_72
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 467
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_73
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 467
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_74
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 467
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_75
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 468
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_76
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 467
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_77
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 467
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_78
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 394
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_79
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 392
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_80
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 388
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_81
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 388
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_82
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 394
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_83
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 394
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_84
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 392
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_85
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 388
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_86
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 388
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_87
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 394
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_88
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 308
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_89
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 308
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_90
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 308
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_91
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 308
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_92
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 308
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_93
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 309
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_94
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 309
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_95
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 225
+        width: 70
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_96
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 228
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_97
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 227
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_98
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 227
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_99
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 227
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_100
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 227
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_101
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 227
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_102
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 225
+        width: 55
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_103
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 227
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_104
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 227
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_105
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 225
+        width: 55
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_106
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 224
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_107
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 147
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_108
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 146
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_109
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 145
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_110
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 147
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_111
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 146
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_112
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 146
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_113
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 145
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_114
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 143
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_115
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 144
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_116
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 145
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_117
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 86
+        width: 126
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_118
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 75
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_119
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_120
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 73
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_121
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 71
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_122
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 70
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_123
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 78
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ahmed_124
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 67
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

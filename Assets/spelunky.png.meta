@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: 22f6a8219ae083e43aca8f5a86aa6904
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spelunky_0
+    21300002: spelunky_1
+    21300004: spelunky_2
+    21300006: spelunky_3
+    21300008: spelunky_4
+    21300010: spelunky_5
+    21300012: spelunky_6
+    21300014: spelunky_7
+    21300016: spelunky_8
+    21300018: spelunky_9
+    21300020: spelunky_10
+    21300022: spelunky_11
+    21300024: spelunky_12
+    21300026: spelunky_13
+    21300028: spelunky_14
+    21300030: spelunky_15
+    21300032: spelunky_16
+    21300034: spelunky_17
+    21300036: spelunky_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spelunky_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 100
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunky_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 100
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunky_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 100
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunky_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 99
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunky_4
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 100
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunky_5
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 100
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunky_6
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 100
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunky_7
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 99
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunky_8
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 100
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunky_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 19
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunky_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 19
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunky_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 23
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunky_12
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 23
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunky_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 20
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunky_14
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 19
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunky_15
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 19
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunky_16
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 20
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunky_17
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 20
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spelunky_18
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 20
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
