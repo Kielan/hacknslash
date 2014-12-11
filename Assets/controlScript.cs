@@ -11,7 +11,8 @@ public class controlScript : MonoBehaviour {
 	
 	}
 
-	void fixedUpdate() {
+	void FixedUpdate() {
+
 		float move = Input.GetAxis ("Horizontal");
 
 		rigidbody2D.velocity = new Vector2 (move * maxSpeed, rigidbody2D.velocity.y);
