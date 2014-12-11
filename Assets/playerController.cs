@@ -6,11 +6,11 @@ public class playerController : MonoBehaviour {
 	public float speed = 6f;            // The speed that the player will move at.
 	public float acceleration = 12;
 	public float timeBetweenSlash = 0.15f; //time between attacks
-
+	/*
 	public KeyCode left;
 	public KeyCode right;
 	public KeyCode slash;
-
+*/
 	private float currentSpeed;
 	private float targetSpeed;
 	private Vector2 amountToMove;
@@ -37,29 +37,31 @@ public class playerController : MonoBehaviour {
 	
 	}
 
-	void FixedUpdate ()
-	{
+	/*
+		void FixedUpdate ()
+		{
 
-		if(Input.GetKeyDown(left)) {
+				if (Input.GetKeyDown (left)) {
 			
 			
-			rigidbody2D.AddForce(Vector3.left * 10);
+						rigidbody2D.AddForce (Vector3.left * 10);
 			
-			float step = 1 * Time.deltaTime;
-		}
-		if(Input.GetKeyDown(right)) {
+						float step = 1 * Time.deltaTime;
+				}
+				if (Input.GetKeyDown (right)) {
 			
-			rigidbody2D.AddForce(Vector3.right * 10);
+						rigidbody2D.AddForce (Vector3.right * 10);
 			
-			float step = 1 * Time.deltaTime;
-		}
+						float step = 1 * Time.deltaTime;
+				}
 		
-		// Animate the player.
-		//			Animating (h, v);
+				// Animate the player.
+				//			Animating (h, v);
 		
-		// Attack
-		//	Attack ();
-	}
+				// Attack
+				//	Attack ();
+		}
+*/
 
 	void update () {
 		targetSpeed = Input.GetAxisRaw("Horizontal") * speed;
