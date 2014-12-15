@@ -1,0 +1,9 @@
+vim git ending 
+
+git add .
+
+git commit
+
+escape shift z z
+
+git push origin master

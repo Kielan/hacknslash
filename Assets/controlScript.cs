@@ -15,7 +15,7 @@ public class controlScript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		anim = GetComponent<Animator> ();
+		anim = GetComponent<Animator>();
 	}
 
 	void FixedUpdate() {
@@ -28,7 +28,7 @@ public class controlScript : MonoBehaviour {
 		rigidbody2D.velocity = new Vector2 (move * maxSpeed, rigidbody2D.velocity.y);
 		anim.SetBool ("Ground", grounded);
 
-		anim.SetFloat ("Speed", Mathf.Abs (move)); //branch falling animation
+		anim.SetFloat ("Speed", Mathf.Abs(move)); //branch falling animation
 
 		if (move > 0 && !facingRight)
 						Flip ();
