@@ -9,9 +9,12 @@ public class controlScript : MonoBehaviour {
 	Animator anim;
 
 	bool grounded = false;
+	bool crouched = false;
 	public Transform groundCheck;
 	float groundRadius = 0.2f;
 	public LayerMask whatIsGround;
+
+	public KeyCode crouch;
 
 	// Use this for initialization
 	void Start () {
@@ -29,7 +32,9 @@ public class controlScript : MonoBehaviour {
 
 		anim.SetBool("Ground", grounded);
 
-		anim.SetFloat ("vSpeed", rigidbody2D.velocity.y);
+		anim.SetBool ("Crouch", crouched);
+
+		// anim.SetFloat ("vSpeed", rigidbody2D.velocity.y);
 
 		anim.SetFloat ("Speed", Mathf.Abs(move)); //branch falling animation
 
@@ -46,11 +51,18 @@ public class controlScript : MonoBehaviour {
 		transform.localScale = theScale;
 	}
 
-	// Update is called once per frame
-	void Update () {
+	void Jump() {
 		if (grounded && Input.GetKeyDown(KeyCode.Space)) {
 			anim.SetBool("Ground", false);
 			rigidbody2D.AddForce(new Vector2(0, 700f));
+		}
+	}
+
+	// Update is called once per frame
+	void Update () {
+		Jump ();
+		if (grounded && Input.GetKey(crouch)) {
+			anim.SetBool("Crouch", true);
 		}
 	}
 }
