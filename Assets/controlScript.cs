@@ -10,7 +10,7 @@ public class controlScript : MonoBehaviour {
 
 	bool grounded = false;
 	public Transform groundCheck;
-	float groundRadius = 0.2f;
+	float groundRadius = 2.2f;
 	public LayerMask whatIsGround;
 
 	// Use this for initialization
@@ -26,6 +26,7 @@ public class controlScript : MonoBehaviour {
 		float move = Input.GetAxis ("Horizontal");
 
 		rigidbody2D.velocity = new Vector2 (move * maxSpeed, rigidbody2D.velocity.y);
+
 		anim.SetBool ("Ground", grounded);
 
 		anim.SetFloat ("Speed", Mathf.Abs(move)); //branch falling animation
@@ -47,7 +48,7 @@ public class controlScript : MonoBehaviour {
 	void Update () {
 		if (grounded && Input.GetKeyDown (KeyCode.Space)) {
 			anim.SetBool("Ground", false);
-			rigidbody2D.AddForce(new Vector2(0, 700f));
+			rigidbody2D.AddForce(new Vector2(0, 200f));
 		}
 	}
 }
