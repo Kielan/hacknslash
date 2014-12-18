@@ -3,7 +3,9 @@ using System.Collections;
 
 public class controlScript : MonoBehaviour {
 
-	public float maxSpeed = 10f;
+	public float runMultiplier;
+	public float maxSpeed = 3f;
+	private float speed;
 	bool facingRight = true;
 
 	Animator anim;
@@ -15,6 +17,7 @@ public class controlScript : MonoBehaviour {
 	public LayerMask whatIsGround;
 
 	public KeyCode crouch;
+	public KeyCode sprint;
 
 	// Use this for initialization
 	void Start () {
@@ -24,19 +27,20 @@ public class controlScript : MonoBehaviour {
 	void FixedUpdate() {
 
 		grounded = Physics2D.OverlapCircle (groundCheck.position, groundRadius, whatIsGround);
-	
+
+		speed = Input.GetKey (KeyCode.LeftShift) ? maxSpeed * runMultiplier : maxSpeed;
 
 		float move = Input.GetAxis ("Horizontal");
 
-		rigidbody2D.velocity = new Vector2 (move * maxSpeed, rigidbody2D.velocity.y);
+		rigidbody2D.velocity = new Vector2 (move * speed, rigidbody2D.velocity.y);
 
 		anim.SetBool("Ground", grounded);
 
 		anim.SetBool ("Crouch", crouched);
 
-		// anim.SetFloat ("vSpeed", rigidbody2D.velocity.y);
+		// anim.SetFloat ("vSpeed", rigidbody2D.velocity.y); //branch falling animation
 
-		anim.SetFloat ("Speed", Mathf.Abs(move)); //branch falling animation
+		anim.SetFloat ("Speed", Mathf.Abs(move)); 
 
 		if (move > 0 && !facingRight)
 						Flip ();
@@ -58,11 +62,15 @@ public class controlScript : MonoBehaviour {
 		}
 	}
 
-	// Update is called once per frame
-	void Update () {
-		Jump ();
+	void Crouch() {
 		if (grounded && Input.GetKey(crouch)) {
 			anim.SetBool("Crouch", true);
 		}
+	}
+	
+	// Update is called once per frame
+	void Update () {
+		Jump ();
+		Crouch ();
 	}
 }
