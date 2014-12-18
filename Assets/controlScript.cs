@@ -43,9 +43,9 @@ public class controlScript : MonoBehaviour {
 		anim.SetFloat ("Speed", Mathf.Abs(move)); 
 
 		if (move > 0 && !facingRight)
-						Flip ();
-				else if (move < 0 && facingRight)
-						Flip ();
+			Flip ();
+		else if (move < 0 && facingRight)
+			Flip ();
 	}
 
 	void Flip() {
@@ -63,8 +63,11 @@ public class controlScript : MonoBehaviour {
 	}
 
 	void Crouch() {
-		if (grounded && Input.GetKey(crouch)) {
-			anim.SetBool("Crouch", true);
+		if (grounded && Input.GetKey (crouch)) {
+			crouched = true;
+		} else {
+			grounded = false;
+			crouched = false;
 		}
 	}
 	
