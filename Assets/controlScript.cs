@@ -40,7 +40,7 @@ public class controlScript : MonoBehaviour {
 
 		// anim.SetFloat ("vSpeed", rigidbody2D.velocity.y); //branch falling animation
 
-		anim.SetFloat ("Speed", Mathf.Abs(move)); 
+		anim.SetFloat ("Speed", Mathf.Abs(move));
 
 		if (move > 0 && !facingRight)
 			Flip ();
@@ -63,12 +63,7 @@ public class controlScript : MonoBehaviour {
 	}
 
 	void Crouch() {
-		if (grounded && Input.GetKey (crouch)) {
-			crouched = true;
-		} else {
-			grounded = false;
-			crouched = false;
-		}
+		crouched = (grounded && Input.GetKey(crouch));
 	}
 	
 	// Update is called once per frame
