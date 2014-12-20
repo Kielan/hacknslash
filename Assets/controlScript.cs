@@ -16,6 +16,7 @@ public class controlScript : MonoBehaviour {
 	public Transform groundCheck;
 	float groundRadius = 0.2f;
 	public LayerMask whatIsGround;
+	public LayerMask Enemies;
 
 	public KeyCode crouch;
 	public KeyCode sprint;
@@ -27,7 +28,15 @@ public class controlScript : MonoBehaviour {
 		anim = GetComponent<Animator>();
 	}
 
+//	void MarioFeet () {
+//		if (Physics2D.OverlapCircle (groundCheck.position, groundRadius, Enemies)) {
+//		Destroy (other.gameObject);
+//		}
+//	}
+
 	void FixedUpdate() {
+
+//		MarioFeet ();
 
 		grounded = Physics2D.OverlapCircle (groundCheck.position, groundRadius, whatIsGround);
 
