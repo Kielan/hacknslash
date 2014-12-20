@@ -20,6 +20,7 @@ public class controlScript : MonoBehaviour {
 	public KeyCode crouch;
 	public KeyCode sprint;
 	public KeyCode lookUp;
+	public KeyCode slash;
 
 	// Use this for initialization
 	void Start () {
