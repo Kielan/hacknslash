@@ -12,12 +12,14 @@ public class controlScript : MonoBehaviour {
 
 	bool grounded = false;
 	bool crouched = false;
+	bool lookingUp = false;
 	public Transform groundCheck;
 	float groundRadius = 0.2f;
 	public LayerMask whatIsGround;
 
 	public KeyCode crouch;
 	public KeyCode sprint;
+	public KeyCode lookUp;
 
 	// Use this for initialization
 	void Start () {
@@ -37,6 +39,8 @@ public class controlScript : MonoBehaviour {
 		anim.SetBool("Ground", grounded);
 
 		anim.SetBool ("Crouch", crouched);
+
+		anim.SetBool ("LookUp", lookingUp);
 
 		// anim.SetFloat ("vSpeed", rigidbody2D.velocity.y); //branch falling animation
 
@@ -65,10 +69,15 @@ public class controlScript : MonoBehaviour {
 	void Crouch() {
 		crouched = (grounded && Input.GetKey(crouch));
 	}
+
+	void LookUp(){
+		lookingUp = (grounded && (Input.GetAxis ("Horizontal") < 0.1) && Input.GetKey (lookUp));
+	}
 	
 	// Update is called once per frame
 	void Update () {
 		Jump ();
 		Crouch ();
+		LookUp ();
 	}
 }
