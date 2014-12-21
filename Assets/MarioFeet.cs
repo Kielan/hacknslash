@@ -2,14 +2,14 @@
 using System.Collections;
 
 public class MarioFeet : MonoBehaviour {
-
-	// Use this for initialization
-	void Start () {
 	
-	}
 	
-	// Update is called once per frame
-	void Update () {
-	
+	void OnControllerColliderHit(ControllerColliderHit hit) {
+		var hitVec = hit.point - transform.position;
+		
+		if (hitVec.y < 0) {
+			Debug.Log("Boop");
+			hit.gameObject.SendMessage("MarioStomp");
+		}
 	}
 }
