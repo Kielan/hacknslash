@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 
 public class controlScript : MonoBehaviour {
@@ -18,10 +19,18 @@ public class controlScript : MonoBehaviour {
 	public LayerMask whatIsGround;
 	public LayerMask Enemies;
 
+	public Slider StaminaSlider;
+	public int maxStamina;
+	private int currentStamina;
+
 	public KeyCode crouch;
 	public KeyCode sprint;
 	public KeyCode lookUp;
 	public KeyCode slash;
+
+	void Awake() {
+		currentStamina = maxStamina;
+	}
 
 	// Use this for initialization
 	void Start () {
@@ -73,6 +82,14 @@ public class controlScript : MonoBehaviour {
 		if (grounded && Input.GetKeyDown(KeyCode.Space)) {
 			anim.SetBool("Ground", false);
 			rigidbody2D.AddForce(new Vector2(0, 700f));
+		}
+	}
+
+	void Slash() {
+		if (Input.GetKeyDown(slash)) {
+			if(currentStamina <= 0) return;
+			currentStamina -= 40;
+			StaminaSlider.value = currentStamina; 
 		}
 	}
 
