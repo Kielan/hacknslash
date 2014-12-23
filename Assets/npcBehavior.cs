@@ -3,7 +3,7 @@ using System.Collections;
 
 public class npcBehavior : MonoBehaviour {
 
-	void MarioStomp() {
+	public void MarioStomp() {
 		Debug.Log("Boop-Bop");
 	}	
 }
